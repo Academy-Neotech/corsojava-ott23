@@ -11,6 +11,8 @@ public class App {
     static int a=5;
 
     public static void main(String[] args) throws Exception {
+        int m=7;
+        System.out.println(2* ++m);
         System.out.println(a);
         int c=24;
         int r=67;
